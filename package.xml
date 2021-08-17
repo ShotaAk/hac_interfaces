@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>hac_msgs</name>
+  <name>hac_interfaces</name>
   <version>0.0.0</version>
   <description>A package containing some HAC data releated message definitions.</description>
   <maintainer email="macakasit@gmail.com">shotaak</maintainer>
